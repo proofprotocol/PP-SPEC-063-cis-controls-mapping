@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it."
+title: "PP-SPEC-063: Proof of Efficacy Mapping to CIS Critical Security Controls®"
+type: software
+authors:
+  - family-names: "Ellrod"
+    given-names: "Craig"
+version: "0.1"
+date-released: "2026-10-08"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/proofprotocol/PP-SPEC-063-cis-controls-mapping"
+abstract: "An independently authored Proof Protocol mapping connecting CIS Critical Security Controls Version 8.1 Control and Safeguard numbers to independently generated evidence, efficacy measurements, and proof artifacts, without reproducing CIS content and keeping non-empirical Safeguards distinct from efficacy results."
+keywords:
+  - "Proof Protocol"
+  - "Proof of Efficacy"
+  - "CIS Controls"
+  - "CIS Critical Security Controls"
+  - "Safeguards"
+  - "Implementation Groups"
+  - "compliance"
+  - "mapping"
+  - "evidence"
+  - "efficacy"
+  - "proof"
