@@ -114,7 +114,7 @@ The CIS Critical Security Controls® are external work owned by the Center for I
 
 CIS publishes the CIS Controls under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC BY-NC-ND 4.0)**, with additional CIS clarifications: redistribution is permitted for non-commercial purposes only with credit to CIS and a link to the license; modified materials may not be distributed; users referring to the CIS Controls are required to refer to http://www.cisecurity.org/controls/; and commercial use of the CIS Controls is subject to the prior approval of CIS.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Contributors MUST NOT copy Safeguard titles, Safeguard descriptions, Control descriptions, tables, glossary entries, or any other CIS Controls content into this repository. Doing so would redistribute CC BY-NC-ND material inside a CC BY 4.0 work that permits commercial use and adaptation, which the CIS terms do not allow. Reference Control and Safeguard numbers and independently authored descriptions only.
 
@@ -124,7 +124,7 @@ Implementers who use this mapping together with CIS Controls content in a commer
 
 CIS requires credit to CIS, a link to the license, and a reference to http://www.cisecurity.org/controls/ when referring to the CIS Controls. The CIS license notice reads (quoted verbatim from CIS Critical Security Controls® Version 8.1, section "Creative Commons License"; CIS Controls download: https://www.cisecurity.org/controls/v8-1):
 
-> This work Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+> This work Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Attribution as provided in this specification:
 
