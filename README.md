@@ -2,7 +2,7 @@
 
 **Status:** DRAFT v0.1
 **Author:** Craig Ellrod / Nebulonium, Inc. / HACKERverse®
-**License:** CC BY 4.0
+**License:** Greater Good Commercial License 1.0 (GGL-C-1.0); text CC BY-ND 4.0 under Part S. See LICENSE.md.
 
 **Normative specification:** [`PP-SPEC-063-CIS-Critical-Security-Controls-Mapping.md`](./PP-SPEC-063-CIS-Critical-Security-Controls-Mapping.md)
 
@@ -30,4 +30,4 @@ External frameworks identify what may be tested. Proof Protocol independently es
 
 This Proof Protocol mapping is independently authored. CIS®, CIS Critical Security Controls®, CIS Controls®, associated names, identifiers, marks, and upstream materials remain the property of the Center for Internet Security, Inc. Mapping establishes interoperability, not dependency, endorsement, certification, or transfer of ownership. No affiliation, endorsement, certification, or sponsorship by the Center for Internet Security, Inc. is implied.
 
-The CIS Controls are licensed by CIS under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Credit: Center for Internet Security, Inc. (CIS®). Users referring to the CIS Controls are required to refer to http://www.cisecurity.org/controls/ for the most up-to-date guidance. Commercial use of the CIS Controls is subject to the prior approval of CIS. This repository references Control and Safeguard numbers only and reproduces no CIS content; its CC BY 4.0 license does not apply to CIS material.
+The CIS Controls Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).

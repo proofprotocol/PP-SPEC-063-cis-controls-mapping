@@ -114,7 +114,7 @@ The CIS Critical Security Controls® are external work owned by the Center for I
 
 CIS publishes the CIS Controls under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC BY-NC-ND 4.0)**, with additional CIS clarifications: redistribution is permitted for non-commercial purposes only with credit to CIS and a link to the license; modified materials may not be distributed; users referring to the CIS Controls are required to refer to http://www.cisecurity.org/controls/; and commercial use of the CIS Controls is subject to the prior approval of CIS.
 
-This Proof Protocol mapping is independently authored and licensed under **CC BY 4.0**. That license applies only to original Proof Protocol material in this repository. It does not relicense the CIS Controls, which remain under CC BY-NC-ND 4.0 and the CIS terms quoted below, and it grants no rights in CIS material.
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Contributors MUST NOT copy Safeguard titles, Safeguard descriptions, Control descriptions, tables, glossary entries, or any other CIS Controls content into this repository. Doing so would redistribute CC BY-NC-ND material inside a CC BY 4.0 work that permits commercial use and adaptation, which the CIS terms do not allow. Reference Control and Safeguard numbers and independently authored descriptions only.
 
@@ -124,7 +124,7 @@ Implementers who use this mapping together with CIS Controls content in a commer
 
 CIS requires credit to CIS, a link to the license, and a reference to http://www.cisecurity.org/controls/ when referring to the CIS Controls. The CIS license notice reads (quoted verbatim from CIS Critical Security Controls® Version 8.1, section "Creative Commons License"; CIS Controls download: https://www.cisecurity.org/controls/v8-1):
 
-> This work is licensed under a Creative Commons Attribution-NonCommercial-No Derivatives 4.0 International Public License (the link can be found at https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). To further clarify the Creative Commons license related to the CIS Controls® content, you are authorized to copy and redistribute the content as a framework for use by you, within your organization and outside of your organization, for non-commercial purposes only, provided that (i) appropriate credit is given to CIS, and (ii) a link to the license is provided. Additionally, if you remix, transform, or build upon the CIS Controls, you may not distribute the modified materials. Users of the CIS Controls framework are also required to refer to (http://www.cisecurity.org/controls/) when referring to the CIS Controls in order to ensure that users are employing the most up to date guidance. Commercial use of the CIS Controls is subject to the prior approval of the Center for Internet Security, Inc. (CIS®).
+> This work Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Attribution as provided in this specification:
 
